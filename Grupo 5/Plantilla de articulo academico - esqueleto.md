@@ -1,5 +1,5 @@
 Diseño y especificaciones de un sistema de información para un hotel<br>
-Julian Moya Molina, Jaziel Ruiz Gutiérrez, Ángelo Fonseca Chavarría
+Julian Moya Molina, Jaziel Ruiz Gutiérrez, Ángelo Fonseca Chavarría<br>
 Recibido 19/04/2022<br>
 Aprobado 19/04/2022
 
